@@ -1,4 +1,26 @@
-# ADCC Historical Dataset — Limpeza e Preparação de Dados
+# ADCC — Análise de Dados de Grappling
+
+**Python | Pandas | SQL | Power BI**
+
+Projeto de análise baseado no histórico de partidas do Abu Dhabi Combat Club
+(ADCC), contemplando dados das competições de 1998 a 2022.
+
+**Problema:** Como transformar um conjunto histórico de informações sobre
+partidas em dados estruturados que permitissem identificar padrões e
+tendências nas competições?
+
+**Solução:** Realizei a organização, limpeza, exploração e análise dos dados
+das partidas, utilizando ferramentas de análise e visualização de dados.
+
+**Como solucionei:** Explorei a base histórica, organizei as informações
+disponíveis e utilizei análises e visualizações para facilitar comparações e
+identificar padrões nos dados das competições.
+
+**Resultado:** A análise transformou os registros históricos das partidas em
+informações estruturadas e visualmente interpretáveis, permitindo uma visão
+mais clara sobre a evolução das competições e seus resultados.
+
+---
 
 ## Contexto
 Base histórica de lutas do ADCC (Abu Dhabi Combat Club), um dos principais
@@ -46,6 +68,8 @@ adcc-project/
 │   └── processed/           # dado limpo (CSV e XLSX)
 ├── scripts/
 │   └── clean_data.py        # script de limpeza
+├── dashboard/
+│   └── ADCC_dashboard.pbix  # dashboard Power BI com a análise
 └── README.md
 ```
 
