@@ -59,3 +59,4 @@ python scripts/clean_data.py
 1.028 lutas tratadas, 14 colunas, prontas para análise (ex.: taxa de vitória
 por tipo de finalização, evolução de peso-categorias ao longo dos anos,
 comparação de desempenho por atleta).
+
